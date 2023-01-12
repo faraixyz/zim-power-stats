@@ -21,4 +21,4 @@ jobs:
               git config user.name "xyz.farai.www Post Scheduler"
               git config user.email "<gandiyafarai@gmail.com>"
               git add -u
-              git diff-index --quiet HEAD || (git commit "Added new data" && git push origin main)
+              git diff-index --quiet HEAD || (git commit -m "Added new data" && git push origin main)
