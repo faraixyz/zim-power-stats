@@ -1,8 +1,5 @@
 name: Get New Data
 on:
-  push:
-    branches:
-      - "main"
   schedule:
     - cron: "0 0-23 * * *"
 
