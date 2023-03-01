@@ -10958,5 +10958,15 @@
         "Kariba": 250,
         "Hwange": 74,
         "Total": 324
+    },
+    {
+        "fetched": "2023-03-01T07:00:31.175789",
+        "last_updated": "2023-03-01T00:00:00",
+        "Munyati": 0,
+        "Bulawayo": 0,
+        "Harare": 0,
+        "Kariba": 280,
+        "Hwange": 72,
+        "Total": 352
     }
 ]
